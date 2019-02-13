@@ -30,4 +30,3 @@ function doWhile(n) {
     console.log('I run once regardless.');
   } while (incrementVariable() < n);
 }
-
