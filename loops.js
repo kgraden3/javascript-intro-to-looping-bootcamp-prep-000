@@ -20,6 +20,3 @@ function whileLoop(n) {
   return 'done';
 }
 
-  while (whileLoop()){
-
-}
